@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:#ffffff;
+}
+
+.header_text {
+    font-family: 'Sans-serif';
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
